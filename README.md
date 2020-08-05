@@ -35,7 +35,7 @@ A finalidade seria entreter uma família hipotética chamada família Aguiar dur
 Tecnicamente utilizou-se a linguagem Python 3.8; sendo toda a interação com o usuário via terminal.
 
 ## Vídeo
-
+- https://youtu.be/-w5SMIR-SZs
 
 ## Ambiente virtual
 Seguindo boas práticas pythônicas, vamos convenientemente criar um ambiente virtual
